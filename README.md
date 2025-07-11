@@ -1,7 +1,7 @@
 # VulnDec
 
 Detecting vulnerabilities in code snippets via a CNN + BiLSTM model with CodeBERT embeddings.
-![alt text](Uploading image.png…)
+![Uploading image.png…]
 
 
 ## 📌 Project Overview
